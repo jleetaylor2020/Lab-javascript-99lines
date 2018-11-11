@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+div {
+    color: yellow;
+    text-align: start;
+    font-size: 1.5em;
+    font-family: fantasy;
+    text-shadow: 1em, crimson;
+}
+
+.friends {
+    background-image: url(https://images.pexels.com/photos/462442/pexels-photo-462442.jpeg?cs=srgb&dl=adult-band-cap-462442.jpg&fm=jpg);
+    padding: 1em;
+    margin: 1em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: local;
+    height: -webkit-fill-available;
+}
